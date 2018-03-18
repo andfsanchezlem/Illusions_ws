@@ -27,7 +27,7 @@ Complete la tabla:
 |Anemic Cinema|Movimiento |[Anemic](http://www.doctorojiplatico.com/2013/05/anemic-cinema-1926-marcel-duchamp.html)|Presionar 'a' para activar o desactivar el efecto |[código](https://www.openprocessing.org/sketch/164071)|
 |Bulging Checkboard |Cognitiva|[Checkboard](http://www.slate.com/blogs/bad_astronomy/2015/01/08/optical_illusion_the_bulging_checkboard_illusion.html)|Presionar 'a' para activar o desactivar el efecto|                             |
 |Circulos Titchener |Fisiologica|[Titchener](https://es.wikipedia.org/wiki/Ilusi%C3%B3n_de_Ebbinghaus)|Presionar 'a' para activar o desactivar el efecto|                             |
-|Moving Triangles |Movimiento|[Move](https://magnet.xataka.com/ciencia/13-ilusiones-visuales-que-haran-que-tu-cabeza-explote)|Presionar 'a' para activar o desactivar el efecto||
+|Moving Triangles |Movimiento|[Move](http://www.whatispsychology.biz/kanizsa-triangle-illusion-explanation)|Presionar 'a' para activar o desactivar el efecto||
 |Mechanical Waves |Movimiento|[Mechanical](https://en.wikipedia.org/wiki/Mechanical_wave)|Presionar 'a' para activar o desactivar el efecto|[código](https://www.openprocessing.org/sketch/136072)|
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
