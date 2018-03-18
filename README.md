@@ -20,6 +20,7 @@ Complete la tabla:
 ## Discusión
 
 1. Complete la la tabla
+* NOTA: Presionar la tecla espaciadora para pasar de una ilusión óptica a otra.
 
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
